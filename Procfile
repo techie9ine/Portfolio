@@ -1,0 +1,1 @@
+web: gunicorn my_portfolio_prj1.wsgi
